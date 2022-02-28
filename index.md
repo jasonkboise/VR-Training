@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## VR Training and the Medical Field
 
 You can use the [editor on GitHub](https://github.com/jasonkboise/VR-Training/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
