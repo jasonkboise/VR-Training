@@ -26,4 +26,8 @@ So where can VR training go from here? There are a lot of exciting things to loo
 
 ### Conclusion
 
-Overall, VR training is an exciting new field that has a lot of potential in not just the medical industry, but almost any industry that requires training. It is hard to say whether it could ever fully replace traditional training methods, but regardless, it remains a strong educational tool that will only improve over time.  
+Overall, VR training is an exciting new field that has a lot of potential in not just the medical industry, but almost any industry that requires training. It is hard to say whether it could ever fully replace traditional training methods, but regardless, it remains a strong educational tool that will only improve over time. And because there is so much room for improvement, it is a field that I think anyone in CS could consider looking more into for a future career. 
+
+## References
+
+Those go here :)
