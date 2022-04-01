@@ -31,7 +31,10 @@ Overall, VR training is an exciting new field that has a lot of potential in not
 ## References
 
 https://pixovr.com/what-is-virtual-reality-training/
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6798020/
+
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6039818/
+
 https://pubmed.ncbi.nlm.nih.gov/29373382/
 
